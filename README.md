@@ -158,7 +158,7 @@ Performance API — pengukuran waktu eksekusi presisi tinggi
 Atsaal Najwan
 
 NIM: 301240012
-Universitas XYZ — Teknik Informatika
+Universitas Bale Bandung — Teknik Informatika
 Mata Kuliah: Kecerdasan Buatan | Semester Genap 2025/2026
 
 
